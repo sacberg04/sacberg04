@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sacberg04
-- 👀 I’m interested in Machine Learning and Algorithms
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on hands on open source projects
 - 📫 How to reach me 
